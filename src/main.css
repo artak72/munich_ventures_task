@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+input, textarea {
+    outline-style: none;
+    box-shadow: none;
+    border-color: transparent;
+}
