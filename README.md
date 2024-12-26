@@ -65,4 +65,4 @@ This project involves creating a Contact Management Interface with a mini-dashbo
 
 1. Clone this repository:
    ```bash
-   git clone
+   git clone https://github.com/artak72/munich_ventures_task.git
